@@ -1,0 +1,2521 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Build_2019-23-Jul-13-48-32
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 636994666402406820
+    buildGUID: 763a5071a0e8d174399b7917db4ba9b5
+    platformName: Android
+    platformGroupName: Android
+    options: 8
+    assetBundleOptions: 0
+    outputPath: E:/Unity/Word WithIn Words 2D/Builds/WordsWithinWords.apk
+    crc: 0
+    totalSize: 302806540
+    totalTimeTicks: 712258196
+    totalErrors: 0
+    totalWarnings: 19
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
+    role: ManagedLibrary
+    id: 0
+    totalSize: 25088
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
+    role: ManagedLibrary
+    id: 1
+    totalSize: 251392
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/UnityEngine.Timeline.dll
+    role: ManagedLibrary
+    id: 2
+    totalSize: 94720
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/UnityEngine.Networking.dll
+    role: ManagedLibrary
+    id: 3
+    totalSize: 256000
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll
+    role: ManagedLibrary
+    id: 4
+    totalSize: 10752
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/Mono.Security.dll
+    role: DependentManagedLibrary
+    id: 5
+    totalSize: 293376
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/System.Core.dll
+    role: DependentManagedLibrary
+    id: 6
+    totalSize: 265728
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/System.Xml.dll
+    role: DependentManagedLibrary
+    id: 7
+    totalSize: 1232384
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/System.dll
+    role: DependentManagedLibrary
+    id: 8
+    totalSize: 1069568
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Managed/mscorlib.dll
+    role: DependentManagedLibrary
+    id: 9
+    totalSize: 2497024
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/globalgamemanagers
+    role: GlobalGameManagers
+    id: 10
+    totalSize: 30280
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/level0
+    role: Scene
+    id: 11
+    totalSize: 52212
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/0a38c9dfe5090504aaf406ed6d56b511
+    role: SharedAssets
+    id: 12
+    totalSize: 5032
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/135ed114fc8081d4ab62c4860e203b61
+    role: SharedAssets
+    id: 13
+    totalSize: 19476
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/9f138f561edb9d941b422a4d4a786385
+    role: SharedAssets
+    id: 14
+    totalSize: 4237224
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/b539744e43c13a94797b128dee140118
+    role: SharedAssets
+    id: 15
+    totalSize: 4580
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/globalgamemanagers.assets
+    role: SharedAssets
+    id: 16
+    totalSize: 26068
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/sharedassets0.assets
+    role: SharedAssets
+    id: 17
+    totalSize: 98010292
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/Resources/unity_builtin_extra
+    role: BuiltInShaders
+    id: 18
+    totalSize: 304124
+  - path: E:/Unity/Word WithIn Words 2D/Temp/StagingArea/Data/boot.config
+    role: BootConfig
+    id: 19
+    totalSize: 68
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/gradle.properties
+    role: Gradle project gradle.properties
+    id: 20
+    totalSize: 28
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/local.properties
+    role: Gradle project local.properties
+    id: 21
+    totalSize: 49
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/proguard-unity.txt
+    role: Unity Proguard config
+    id: 22
+    totalSize: 124
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png
+    role: Android resources
+    id: 23
+    totalSize: 66047
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon.png
+    role: Android resources
+    id: 24
+    totalSize: 11086
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon_round.png
+    role: Android resources
+    id: 25
+    totalSize: 11086
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon.png
+    role: Android resources
+    id: 26
+    totalSize: 3482
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon_round.png
+    role: Android resources
+    id: 27
+    totalSize: 3482
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png
+    role: Android resources
+    id: 28
+    totalSize: 5708
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon_round.png
+    role: Android resources
+    id: 29
+    totalSize: 5708
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon.png
+    role: Android resources
+    id: 30
+    totalSize: 17387
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon_round.png
+    role: Android resources
+    id: 31
+    totalSize: 17387
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon.png
+    role: Android resources
+    id: 32
+    totalSize: 31667
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon_round.png
+    role: Android resources
+    id: 33
+    totalSize: 31667
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon.png
+    role: Android resources
+    id: 34
+    totalSize: 48944
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon_round.png
+    role: Android resources
+    id: 35
+    totalSize: 48944
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/values/strings.xml
+    role: Android resources
+    id: 36
+    totalSize: 120
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/values/styles.xml
+    role: Android resources
+    id: 37
+    totalSize: 529
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/res/values-v21/styles.xml
+    role: Android resources
+    id: 38
+    totalSize: 169
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/libs/unity-classes.jar
+    role: Unity Java library
+    id: 39
+    totalSize: 92425
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmain.so
+    role: Native library
+    id: 40
+    totalSize: 18024
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmono.so
+    role: Native library
+    id: 41
+    totalSize: 3791288
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libunity.so
+    role: Native library
+    id: 42
+    totalSize: 18815328
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/x86/libmain.so
+    role: Native library
+    id: 43
+    totalSize: 6480
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/x86/libmono.so
+    role: Native library
+    id: 44
+    totalSize: 3661020
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/jniLibs/x86/libunity.so
+    role: Native library
+    id: 45
+    totalSize: 24744900
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/0a38c9dfe5090504aaf406ed6d56b511
+    role: Unity and Android assets
+    id: 46
+    totalSize: 5032
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/135ed114fc8081d4ab62c4860e203b61
+    role: Unity and Android assets
+    id: 47
+    totalSize: 19476
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/9f138f561edb9d941b422a4d4a786385
+    role: Unity and Android assets
+    id: 48
+    totalSize: 4237224
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/b539744e43c13a94797b128dee140118
+    role: Unity and Android assets
+    id: 49
+    totalSize: 4580
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/boot.config
+    role: Unity and Android assets
+    id: 50
+    totalSize: 68
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers
+    role: Unity and Android assets
+    id: 51
+    totalSize: 30280
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers.assets
+    role: Unity and Android assets
+    id: 52
+    totalSize: 26068
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/level0
+    role: Unity and Android assets
+    id: 53
+    totalSize: 52212
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll
+    role: Unity and Android assets
+    id: 54
+    totalSize: 25088
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/Mono.Security.dll
+    role: Unity and Android assets
+    id: 55
+    totalSize: 293376
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/mscorlib.dll
+    role: Unity and Android assets
+    id: 56
+    totalSize: 2497024
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Core.dll
+    role: Unity and Android assets
+    id: 57
+    totalSize: 265728
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.dll
+    role: Unity and Android assets
+    id: 58
+    totalSize: 1069568
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.dll
+    role: Unity and Android assets
+    id: 59
+    totalSize: 1232384
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+    role: Unity and Android assets
+    id: 60
+    totalSize: 8192
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.dll
+    role: Unity and Android assets
+    id: 61
+    totalSize: 39424
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+    role: Unity and Android assets
+    id: 62
+    totalSize: 130048
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ARModule.dll
+    role: Unity and Android assets
+    id: 63
+    totalSize: 22528
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+    role: Unity and Android assets
+    id: 64
+    totalSize: 15360
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+    role: Unity and Android assets
+    id: 65
+    totalSize: 53760
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.BaselibModule.dll
+    role: Unity and Android assets
+    id: 66
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+    role: Unity and Android assets
+    id: 67
+    totalSize: 11776
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CloudWebServicesModule.dll
+    role: Unity and Android assets
+    id: 68
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+    role: Unity and Android assets
+    id: 69
+    totalSize: 800768
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+    role: Unity and Android assets
+    id: 70
+    totalSize: 6144
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+    role: Unity and Android assets
+    id: 71
+    totalSize: 10240
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.dll
+    role: Unity and Android assets
+    id: 72
+    totalSize: 67072
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.FacebookModule.dll
+    role: Unity and Android assets
+    id: 73
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll
+    role: Unity and Android assets
+    id: 74
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+    role: Unity and Android assets
+    id: 75
+    totalSize: 23552
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll
+    role: Unity and Android assets
+    id: 76
+    totalSize: 10240
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll
+    role: Unity and Android assets
+    id: 77
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+    role: Unity and Android assets
+    id: 78
+    totalSize: 6656
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+    role: Unity and Android assets
+    id: 79
+    totalSize: 148480
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll
+    role: Unity and Android assets
+    id: 80
+    totalSize: 8192
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    role: Unity and Android assets
+    id: 81
+    totalSize: 7680
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll
+    role: Unity and Android assets
+    id: 82
+    totalSize: 6144
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Networking.dll
+    role: Unity and Android assets
+    id: 83
+    totalSize: 256000
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+    role: Unity and Android assets
+    id: 84
+    totalSize: 6656
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    role: Unity and Android assets
+    id: 85
+    totalSize: 113152
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    role: Unity and Android assets
+    id: 86
+    totalSize: 6144
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+    role: Unity and Android assets
+    id: 87
+    totalSize: 83456
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+    role: Unity and Android assets
+    id: 88
+    totalSize: 69632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll
+    role: Unity and Android assets
+    id: 89
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    role: Unity and Android assets
+    id: 90
+    totalSize: 6656
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    role: Unity and Android assets
+    id: 91
+    totalSize: 19456
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll
+    role: Unity and Android assets
+    id: 92
+    totalSize: 10752
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+    role: Unity and Android assets
+    id: 93
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    role: Unity and Android assets
+    id: 94
+    totalSize: 7168
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    role: Unity and Android assets
+    id: 95
+    totalSize: 7168
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StreamingModule.dll
+    role: Unity and Android assets
+    id: 96
+    totalSize: 6656
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll
+    role: Unity and Android assets
+    id: 97
+    totalSize: 13312
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll
+    role: Unity and Android assets
+    id: 98
+    totalSize: 10240
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+    role: Unity and Android assets
+    id: 99
+    totalSize: 32768
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    role: Unity and Android assets
+    id: 100
+    totalSize: 6144
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+    role: Unity and Android assets
+    id: 101
+    totalSize: 24064
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+    role: Unity and Android assets
+    id: 102
+    totalSize: 20992
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Timeline.dll
+    role: Unity and Android assets
+    id: 103
+    totalSize: 94720
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TimelineModule.dll
+    role: Unity and Android assets
+    id: 104
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TLSModule.dll
+    role: Unity and Android assets
+    id: 105
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll
+    role: Unity and Android assets
+    id: 106
+    totalSize: 251392
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+    role: Unity and Android assets
+    id: 107
+    totalSize: 302080
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll
+    role: Unity and Android assets
+    id: 108
+    totalSize: 19456
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UmbraModule.dll
+    role: Unity and Android assets
+    id: 109
+    totalSize: 5632
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+    role: Unity and Android assets
+    id: 110
+    totalSize: 69120
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    role: Unity and Android assets
+    id: 111
+    totalSize: 18944
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+    role: Unity and Android assets
+    id: 112
+    totalSize: 7168
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    role: Unity and Android assets
+    id: 113
+    totalSize: 8192
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    role: Unity and Android assets
+    id: 114
+    totalSize: 7680
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    role: Unity and Android assets
+    id: 115
+    totalSize: 38912
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    role: Unity and Android assets
+    id: 116
+    totalSize: 7680
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    role: Unity and Android assets
+    id: 117
+    totalSize: 18432
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+    role: Unity and Android assets
+    id: 118
+    totalSize: 9728
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+    role: Unity and Android assets
+    id: 119
+    totalSize: 23552
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll
+    role: Unity and Android assets
+    id: 120
+    totalSize: 25088
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.WindModule.dll
+    role: Unity and Android assets
+    id: 121
+    totalSize: 6656
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.dll
+    role: Unity and Android assets
+    id: 122
+    totalSize: 33280
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/Resources/unity_builtin_extra
+    role: Unity and Android assets
+    id: 123
+    totalSize: 304124
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split0
+    role: Unity and Android assets
+    id: 124
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split1
+    role: Unity and Android assets
+    id: 125
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split10
+    role: Unity and Android assets
+    id: 126
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split11
+    role: Unity and Android assets
+    id: 127
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split12
+    role: Unity and Android assets
+    id: 128
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split13
+    role: Unity and Android assets
+    id: 129
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split14
+    role: Unity and Android assets
+    id: 130
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split15
+    role: Unity and Android assets
+    id: 131
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split16
+    role: Unity and Android assets
+    id: 132
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split17
+    role: Unity and Android assets
+    id: 133
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split18
+    role: Unity and Android assets
+    id: 134
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split19
+    role: Unity and Android assets
+    id: 135
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split2
+    role: Unity and Android assets
+    id: 136
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split20
+    role: Unity and Android assets
+    id: 137
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split21
+    role: Unity and Android assets
+    id: 138
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split22
+    role: Unity and Android assets
+    id: 139
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split23
+    role: Unity and Android assets
+    id: 140
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split24
+    role: Unity and Android assets
+    id: 141
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split25
+    role: Unity and Android assets
+    id: 142
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split26
+    role: Unity and Android assets
+    id: 143
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split27
+    role: Unity and Android assets
+    id: 144
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split28
+    role: Unity and Android assets
+    id: 145
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split29
+    role: Unity and Android assets
+    id: 146
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split3
+    role: Unity and Android assets
+    id: 147
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split30
+    role: Unity and Android assets
+    id: 148
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split31
+    role: Unity and Android assets
+    id: 149
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split32
+    role: Unity and Android assets
+    id: 150
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split33
+    role: Unity and Android assets
+    id: 151
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split34
+    role: Unity and Android assets
+    id: 152
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split35
+    role: Unity and Android assets
+    id: 153
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split36
+    role: Unity and Android assets
+    id: 154
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split37
+    role: Unity and Android assets
+    id: 155
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split38
+    role: Unity and Android assets
+    id: 156
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split39
+    role: Unity and Android assets
+    id: 157
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split4
+    role: Unity and Android assets
+    id: 158
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split40
+    role: Unity and Android assets
+    id: 159
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split41
+    role: Unity and Android assets
+    id: 160
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split42
+    role: Unity and Android assets
+    id: 161
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split43
+    role: Unity and Android assets
+    id: 162
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split44
+    role: Unity and Android assets
+    id: 163
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split45
+    role: Unity and Android assets
+    id: 164
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split46
+    role: Unity and Android assets
+    id: 165
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split47
+    role: Unity and Android assets
+    id: 166
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split48
+    role: Unity and Android assets
+    id: 167
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split49
+    role: Unity and Android assets
+    id: 168
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split5
+    role: Unity and Android assets
+    id: 169
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split50
+    role: Unity and Android assets
+    id: 170
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split51
+    role: Unity and Android assets
+    id: 171
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split52
+    role: Unity and Android assets
+    id: 172
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split53
+    role: Unity and Android assets
+    id: 173
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split54
+    role: Unity and Android assets
+    id: 174
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split55
+    role: Unity and Android assets
+    id: 175
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split56
+    role: Unity and Android assets
+    id: 176
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split57
+    role: Unity and Android assets
+    id: 177
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split58
+    role: Unity and Android assets
+    id: 178
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split59
+    role: Unity and Android assets
+    id: 179
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split6
+    role: Unity and Android assets
+    id: 180
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split60
+    role: Unity and Android assets
+    id: 181
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split61
+    role: Unity and Android assets
+    id: 182
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split62
+    role: Unity and Android assets
+    id: 183
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split63
+    role: Unity and Android assets
+    id: 184
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split64
+    role: Unity and Android assets
+    id: 185
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split65
+    role: Unity and Android assets
+    id: 186
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split66
+    role: Unity and Android assets
+    id: 187
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split67
+    role: Unity and Android assets
+    id: 188
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split68
+    role: Unity and Android assets
+    id: 189
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split69
+    role: Unity and Android assets
+    id: 190
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split7
+    role: Unity and Android assets
+    id: 191
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split70
+    role: Unity and Android assets
+    id: 192
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split71
+    role: Unity and Android assets
+    id: 193
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split72
+    role: Unity and Android assets
+    id: 194
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split73
+    role: Unity and Android assets
+    id: 195
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split74
+    role: Unity and Android assets
+    id: 196
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split75
+    role: Unity and Android assets
+    id: 197
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split76
+    role: Unity and Android assets
+    id: 198
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split77
+    role: Unity and Android assets
+    id: 199
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split78
+    role: Unity and Android assets
+    id: 200
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split79
+    role: Unity and Android assets
+    id: 201
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split8
+    role: Unity and Android assets
+    id: 202
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split80
+    role: Unity and Android assets
+    id: 203
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split81
+    role: Unity and Android assets
+    id: 204
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split82
+    role: Unity and Android assets
+    id: 205
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split83
+    role: Unity and Android assets
+    id: 206
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split84
+    role: Unity and Android assets
+    id: 207
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split85
+    role: Unity and Android assets
+    id: 208
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split86
+    role: Unity and Android assets
+    id: 209
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split87
+    role: Unity and Android assets
+    id: 210
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split88
+    role: Unity and Android assets
+    id: 211
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split89
+    role: Unity and Android assets
+    id: 212
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split9
+    role: Unity and Android assets
+    id: 213
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split90
+    role: Unity and Android assets
+    id: 214
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split91
+    role: Unity and Android assets
+    id: 215
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split92
+    role: Unity and Android assets
+    id: 216
+    totalSize: 1048576
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split93
+    role: Unity and Android assets
+    id: 217
+    totalSize: 492724
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/src/main/assets/bin/Data/unity
+      default resources
+    role: Unity and Android assets
+    id: 218
+    totalSize: 3478196
+  - path: E:/Unity/Word WithIn Words 2D/Temp/gradleOut/build.gradle
+    role: build.gradle
+    id: 219
+    totalSize: 1492
+  - path: E:/Unity/Word WithIn Words 2D/Builds/WordsWithinWords.apk
+    role: APK
+    id: 220
+    totalSize: 28060789
+  m_BuildSteps:
+  - stepName: Build player
+    durationTicks: 712258196
+    depth: 0
+    messages:
+    - type: 2
+      content: Game scripts or other custom code contains OnMouse_ event handlers.
+        Presence of such handlers might impact performance on handheld devices.
+  - stepName: Compile scripts
+    durationTicks: 15584898
+    depth: 1
+    messages:
+    - type: 2
+      content: 'Assets/Scripts/DraggingThrougEventSystem.cs(12,16): warning CS0414:
+        The private field `DraggingThrougEventSystem.ObjectToDragImage'' is assigned
+        but its value is never used'
+    - type: 2
+      content: 'Assets/Scripts/DraggingThrougEventSystem.cs(16,18): warning CS0414:
+        The private field `DraggingThrougEventSystem.OriginalPosition'' is assigned
+        but its value is never used'
+    - type: 2
+      content: 'Assets/Scripts/SearchingTheWord.cs(11,14): warning CS0414: The private
+        field `SearchingTheWord.CurrentChildCount'' is assigned but its value is never
+        used'
+  - stepName: Prepare splash screen
+    durationTicks: 27
+    depth: 1
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 85565
+    depth: 1
+    messages:
+    - type: 2
+      content: Warning! Using more than 1 pixel lights on a mobile device may decrease
+        performance severely. You can change the mobile quality settings in 'Project
+        Settings -> Quality Settings'.
+  - stepName: Building scenes
+    durationTicks: 11231352
+    depth: 1
+    messages: []
+  - stepName: Building scene Assets/Scenes/First Level.unity
+    durationTicks: 11231330
+    depth: 2
+    messages: []
+  - stepName: Build GlobalGameManagers file
+    durationTicks: 1010367
+    depth: 1
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 3588366
+    depth: 1
+    messages: []
+  - stepName: Packaging assets - 0a38c9dfe5090504aaf406ed6d56b511
+    durationTicks: 46539
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 135ed114fc8081d4ab62c4860e203b61
+    durationTicks: 23322
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 9f138f561edb9d941b422a4d4a786385
+    durationTicks: 157769
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - b539744e43c13a94797b128dee140118
+    durationTicks: 35360
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - globalgamemanagers.assets
+    durationTicks: 46822
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - sharedassets0.assets
+    durationTicks: 3212560
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 565368426
+    depth: 1
+    messages:
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as android banner.
+        This might compromise visual quality of the final image. Uncompressed format
+        might be considered as better import option.
+    - type: 2
+      content: Texture Words Within Words Icon (android banner) has resolution (200
+        x 200) lower than expected (320 x 180). This might compromise visual quality
+        of the final image. Please consider using a native size texture and appropriate
+        import options (NPOT).
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+    - type: 2
+      content: Compressed texture Words Within Words Icon is used as icon. This might
+        compromise visual quality of the final image. Uncompressed format might be
+        considered as better import option.
+  - stepName: Creating staging area
+    durationTicks: 30021
+    depth: 2
+    messages: []
+  - stepName: Generating Build Id
+    durationTicks: 15323
+    depth: 2
+    messages: []
+  - stepName: Preparing Unity resources
+    durationTicks: 2302328
+    depth: 2
+    messages: []
+  - stepName: Splitting assets
+    durationTicks: 6506391
+    depth: 2
+    messages: []
+  - stepName: Processing OBB assets
+    durationTicks: 1329
+    depth: 2
+    messages: []
+  - stepName: Preparing Unity libraries
+    durationTicks: 28627182
+    depth: 2
+    messages: []
+  - stepName: Processing resources
+    durationTicks: 13329
+    depth: 2
+    messages: []
+  - stepName: Preparing APK resources
+    durationTicks: 10102621
+    depth: 2
+    messages: []
+  - stepName: Processing plugins
+    durationTicks: 118169
+    depth: 2
+    messages: []
+  - stepName: Processing Android libraries
+    durationTicks: 25117
+    depth: 2
+    messages: []
+  - stepName: Creating Android manifest
+    durationTicks: 7939502
+    depth: 2
+    messages: []
+  - stepName: Compiling resources
+    durationTicks: 136768
+    depth: 2
+    messages: []
+  - stepName: IL2CPP
+    durationTicks: 11639
+    depth: 2
+    messages: []
+  - stepName: Build native Unity binary
+    durationTicks: 2069
+    depth: 2
+    messages: []
+  - stepName: Zipping symbols
+    durationTicks: 4779
+    depth: 2
+    messages: []
+  - stepName: Performance Reporting Symbol Upload
+    durationTicks: 2953
+    depth: 2
+    messages: []
+  - stepName: Preparing streaming assets
+    durationTicks: 38679
+    depth: 2
+    messages: []
+  - stepName: fastzip
+    durationTicks: 847
+    depth: 2
+    messages: []
+  - stepName: 'AAPT: Compiling all assets into one archive'
+    durationTicks: 2427
+    depth: 2
+    messages: []
+  - stepName: Exporting project
+    durationTicks: 17951155
+    depth: 2
+    messages: []
+  - stepName: Building Gradle project
+    durationTicks: 486955964
+    depth: 2
+    messages: []
+  - stepName: Moving output package(s)
+    durationTicks: 477954
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: 1126797148824190656}
+  - {fileID: 1126844046243062382}
+  - {fileID: 1126018466963780322}
+  - {fileID: 1126251282552185676}
+  - {fileID: 1126287301813195428}
+  - {fileID: 1126310467345188860}
+  - {fileID: 114447842489915278}
+--- !u!114 &114447842489915278
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13803, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetRequirements:
+    minSdkVersion: 18
+    glesMinRequired: 196608
+    openGLRequireES31AEP: 0
+    requireVulkan: 0
+    targetArchitectures: 5
+  outputPath: E:/Unity/Word WithIn Words 2D/Builds/WordsWithinWords.apk
+  buildOptions: 8
+  buildApkPerCpuArchitecture: 0
+  useObb: 0
+  targetArchitectures: 5
+  versionCode: 1
+  packageName: com.Mukund_Raj.WordsWithInWords
+  safeProductName: Words WithIn Words
+  activityWithIntent: com.unity3d.player.UnityPlayerActivity
+--- !u!1126 &1126018466963780322
+PackedAssets:
+  m_File: 14
+  m_ShortPath: 9f138f561edb9d941b422a4d4a786385
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 4233128
+    sourceAssetGUID: 9f138f561edb9d941b422a4d4a786385
+    buildTimeAssetPath: Assets/Resources/word.txt
+--- !u!1126 &1126251282552185676
+PackedAssets:
+  m_File: 15
+  m_ShortPath: b539744e43c13a94797b128dee140118
+  m_Overhead: 4108
+  m_Contents:
+  - fileID: 1
+    classID: 1
+    packedSize: 71
+    sourceAssetGUID: b539744e43c13a94797b128dee140118
+    buildTimeAssetPath: Assets/Resources/Holder.prefab
+  - fileID: 2
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: b539744e43c13a94797b128dee140118
+    buildTimeAssetPath: Assets/Resources/Holder.prefab
+  - fileID: 3
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: b539744e43c13a94797b128dee140118
+    buildTimeAssetPath: Assets/Resources/Holder.prefab
+  - fileID: 4
+    classID: 114
+    packedSize: 44
+    sourceAssetGUID: b539744e43c13a94797b128dee140118
+    buildTimeAssetPath: Assets/Resources/Holder.prefab
+  - fileID: 5
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: b539744e43c13a94797b128dee140118
+    buildTimeAssetPath: Assets/Resources/Holder.prefab
+--- !u!1126 &1126287301813195428
+PackedAssets:
+  m_File: 16
+  m_ShortPath: globalgamemanagers.assets
+  m_Overhead: 4187
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 85
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 292
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 3
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 4
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 5
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 6
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 7
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 8
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 9
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 10
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 11
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 12
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 13
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 14
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 15
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 16
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 17
+    classID: 115
+    packedSize: 144
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 18
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 19
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 20
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 21
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 22
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 23
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 24
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 25
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 26
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 27
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 28
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 29
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 30
+    classID: 115
+    packedSize: 172
+    sourceAssetGUID: e4f4cf1b9b434137a499903a7a1d651a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 31
+    classID: 115
+    packedSize: 172
+    sourceAssetGUID: ead147da21254ff9a0a936bdd75e1680
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 32
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 33
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 34
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 35
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 36
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 37
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 38
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 39
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 40
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 41
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 42
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 43
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 44
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 45
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 46
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 47
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 48
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 49
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 50
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 51
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 52
+    classID: 115
+    packedSize: 156
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 53
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 54
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 55
+    classID: 115
+    packedSize: 164
+    sourceAssetGUID: e4f4cf1b9b434137a499903a7a1d651a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 56
+    classID: 115
+    packedSize: 164
+    sourceAssetGUID: ead147da21254ff9a0a936bdd75e1680
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 57
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 58
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 59
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: e4f4cf1b9b434137a499903a7a1d651a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 60
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: ead147da21254ff9a0a936bdd75e1680
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 61
+    classID: 115
+    packedSize: 144
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 62
+    classID: 115
+    packedSize: 144
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 63
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 64
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 65
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 66
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 67
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 68
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 69
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 220224b43fc464c28bc0e8de8f54a432
+    buildTimeAssetPath: Packages/com.unity.analytics/UnityEngine.Analytics.dll
+  - fileID: 70
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: 3a84de5cd0624681b6b6dcd8921d912a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+  - fileID: 71
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: ed7343f30e3843b3afda8f8b02669cea
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll
+  - fileID: 72
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 73
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 74
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 75
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 76
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 77
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 78
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 79
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 80
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 81
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 82
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 83
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 84
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 85
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 86
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 87
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 88
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 89
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 90
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 1148e4262362b874fa3738b39c85af1f
+    buildTimeAssetPath: Assets/Scripts/DraggingOnWord.cs
+  - fileID: 91
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 1d63dcf3b67b2f94492cdb828ee8f9dc
+    buildTimeAssetPath: Assets/Scripts/DeleteWord.cs
+  - fileID: 92
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 27ea5a1677ff76947a20080acbd97c3a
+    buildTimeAssetPath: Assets/Scripts/SearchingTheWord.cs
+  - fileID: 93
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: 32e41881d608c37428aa32cc9772028d
+    buildTimeAssetPath: Assets/Scripts/CreatingTheWordOnRunTime.cs
+  - fileID: 94
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 33ea4daf3665e354e94852421e6449cb
+    buildTimeAssetPath: Assets/Scripts/DraggedToPanel.cs
+  - fileID: 95
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 5032c5f279809064cb01b2e71d09f6de
+    buildTimeAssetPath: Assets/Scripts/ChangingTheLevel.cs
+  - fileID: 96
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 59f352228688c074cbb01561359a1233
+    buildTimeAssetPath: Assets/Scripts/DragToPanelDragging.cs
+  - fileID: 97
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 65a2bb9bdf5fb924cada532ed3b3358b
+    buildTimeAssetPath: Assets/Scripts/ElementBeingDropped.cs
+  - fileID: 98
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 72d2ba75264ac24448008861201f3f80
+    buildTimeAssetPath: Assets/Scripts/DragTheWord.cs
+  - fileID: 99
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 7c2ce1dbca832d845847785c1b69af2d
+    buildTimeAssetPath: Assets/Scripts/Dragmove.cs
+  - fileID: 100
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 7c80c720e730bb04bb3bc3cacf73a0a3
+    buildTimeAssetPath: Assets/Scripts/WordPanelOutside.cs
+  - fileID: 101
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 8101d347a9926b34e97f0c457c4d6d24
+    buildTimeAssetPath: Assets/Scripts/LevelButtonCreation.cs
+  - fileID: 102
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 959eff75ed2e8444fa0ae586ddccef5d
+    buildTimeAssetPath: Assets/Scripts/UIElementDraggable.cs
+  - fileID: 103
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: a443e752946b69d40af7b94d1e41f89c
+    buildTimeAssetPath: Assets/Scripts/ManagingTheGame.cs
+  - fileID: 104
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: a4aa97b66243ae742b96e72c0d3ae7ad
+    buildTimeAssetPath: Assets/Scripts/RightShifted.cs
+  - fileID: 105
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: c48a66667f8530947ac4c76dd86d5ca7
+    buildTimeAssetPath: Assets/Scripts/DragPanelCheck.cs
+  - fileID: 106
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: cedccc6a75493be49a2aa3dba2e2498c
+    buildTimeAssetPath: Assets/Scripts/uidragger.cs
+  - fileID: 107
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: d124f481eb456a645909ccfe22f1b453
+    buildTimeAssetPath: Assets/menuNavigation.cs
+  - fileID: 108
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: d75f382fb511922428e2fdc2d2b14ed8
+    buildTimeAssetPath: Assets/Scripts/DraggingThrougEventSystem.cs
+  - fileID: 109
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: da05dabbb49110548866792e41b5afa8
+    buildTimeAssetPath: Assets/Scripts/ReturnTheLevelNumber.cs
+  - fileID: 110
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: e629e4f215ab10843acac7e2cde88da3
+    buildTimeAssetPath: Assets/Scripts/HolderOf.cs
+  - fileID: 111
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: e6482f0a4d537b241a9e097a33d902fa
+    buildTimeAssetPath: Assets/Scripts/DragThroughInterface.cs
+  - fileID: 112
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: e96ba25cd30c0614283c2d415b2a44c3
+    buildTimeAssetPath: Assets/Scripts/examplechild.cs
+  - fileID: 113
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 114
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 115
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 220224b43fc464c28bc0e8de8f54a432
+    buildTimeAssetPath: Packages/com.unity.analytics/UnityEngine.Analytics.dll
+  - fileID: 116
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 117
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 118
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 119
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 120
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 121
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 122
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 123
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 124
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 125
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 126
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 127
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 128
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 129
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 130
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 131
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 132
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 133
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 134
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 135
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 136
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 137
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 138
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 139
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 140
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 141
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 142
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 143
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 144
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 145
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 146
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 147
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 148
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 149
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 150
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 151
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 152
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 153
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 154
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 155
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 156
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 157
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 158
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 159
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 160
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 3b07d432cba2a4c4f8a2fdea984620b8
+    buildTimeAssetPath: Packages/com.unity.ads/UnityEngine.Advertisements.dll
+  - fileID: 161
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 162
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 163
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 164
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 165
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 166
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 167
+    classID: 115
+    packedSize: 156
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 168
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 169
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 170
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 171
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 172
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 3b07d432cba2a4c4f8a2fdea984620b8
+    buildTimeAssetPath: Packages/com.unity.ads/UnityEngine.Advertisements.dll
+  - fileID: 173
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 174
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 175
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: 3a84de5cd0624681b6b6dcd8921d912a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+  - fileID: 176
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: ed7343f30e3843b3afda8f8b02669cea
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll
+  - fileID: 177
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 178
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 179
+    classID: 115
+    packedSize: 172
+    sourceAssetGUID: e4f4cf1b9b434137a499903a7a1d651a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Runtime/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 180
+    classID: 115
+    packedSize: 172
+    sourceAssetGUID: ead147da21254ff9a0a936bdd75e1680
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+  - fileID: 181
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 182
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 183
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 184
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 185
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 186
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 187
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: 3a84de5cd0624681b6b6dcd8921d912a
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+  - fileID: 188
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: ed7343f30e3843b3afda8f8b02669cea
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Runtime/UnityEngine.SpatialTracking.dll
+  - fileID: 189
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 190
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 191
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 6a10b2909283487f913b00d94cd3faf5
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll
+  - fileID: 192
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: 844f815391db42d49455cbf1a7bfc434
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+  - fileID: 193
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 194
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+--- !u!1126 &1126310467345188860
+PackedAssets:
+  m_File: 17
+  m_ShortPath: sharedassets0.assets
+  m_Overhead: 4246
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 337
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 136
+    sourceAssetGUID: aa790c31e09270f4184d0a4edb58306e
+    buildTimeAssetPath: Assets/Scripts/Beon.otf
+  - fileID: 3
+    classID: 28
+    packedSize: 5564
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 28
+    packedSize: 5568
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 5
+    classID: 28
+    packedSize: 6205580
+    sourceAssetGUID: 2298a7f3a01a6e9458e0f10cd99d2bfe
+    buildTimeAssetPath: Assets/Sprites/black-and-white-black-and-white-fog-234272.png
+  - fileID: 6
+    classID: 28
+    packedSize: 1048704
+    sourceAssetGUID: 3a8b4e41e73aed24b89418bcf1e53694
+    buildTimeAssetPath: Assets/Sprites/transparent-lock-svg-6-original.png
+  - fileID: 7
+    classID: 28
+    packedSize: 262296
+    sourceAssetGUID: 4a1c598324be62840b523c3552624175
+    buildTimeAssetPath: Assets/Sprites/http___pluspng.com_img-png_previous-button-png-size-512.png
+  - fileID: 8
+    classID: 28
+    packedSize: 160108
+    sourceAssetGUID: 6bc55c76c7223d041948c670410591e7
+    buildTimeAssetPath: Assets/Sprites/ThreeStars.png
+  - fileID: 9
+    classID: 28
+    packedSize: 348916
+    sourceAssetGUID: 759cfa562015f22458fdc2f93042edf1
+    buildTimeAssetPath: Assets/Sprites/roundedEdgeCapsule.png
+  - fileID: 10
+    classID: 28
+    packedSize: 89478592
+    sourceAssetGUID: 90863eee59fa5814a800075e5536801e
+    buildTimeAssetPath: Assets/Sprites/commandBG.png
+  - fileID: 11
+    classID: 28
+    packedSize: 262248
+    sourceAssetGUID: 98523c04a487e294d84a1111431fbe44
+    buildTimeAssetPath: Assets/Sprites/Delete.png
+  - fileID: 12
+    classID: 28
+    packedSize: 108
+    sourceAssetGUID: aa790c31e09270f4184d0a4edb58306e
+    buildTimeAssetPath: Assets/Scripts/Beon.otf
+  - fileID: 13
+    classID: 28
+    packedSize: 160108
+    sourceAssetGUID: d825146a3ce56664788901bafadb9499
+    buildTimeAssetPath: Assets/Sprites/fill_area.png
+  - fileID: 14
+    classID: 128
+    packedSize: 33930
+    sourceAssetGUID: aa790c31e09270f4184d0a4edb58306e
+    buildTimeAssetPath: Assets/Scripts/Beon.otf
+  - fileID: 15
+    classID: 213
+    packedSize: 564
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 16
+    classID: 213
+    packedSize: 568
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 17
+    classID: 213
+    packedSize: 492
+    sourceAssetGUID: 2298a7f3a01a6e9458e0f10cd99d2bfe
+    buildTimeAssetPath: Assets/Sprites/black-and-white-black-and-white-fog-234272.png
+  - fileID: 18
+    classID: 213
+    packedSize: 5508
+    sourceAssetGUID: 3a8b4e41e73aed24b89418bcf1e53694
+    buildTimeAssetPath: Assets/Sprites/transparent-lock-svg-6-original.png
+  - fileID: 19
+    classID: 213
+    packedSize: 3100
+    sourceAssetGUID: 4a1c598324be62840b523c3552624175
+    buildTimeAssetPath: Assets/Sprites/http___pluspng.com_img-png_previous-button-png-size-512.png
+  - fileID: 20
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: 6bc55c76c7223d041948c670410591e7
+    buildTimeAssetPath: Assets/Sprites/ThreeStars.png
+  - fileID: 21
+    classID: 213
+    packedSize: 776
+    sourceAssetGUID: 759cfa562015f22458fdc2f93042edf1
+    buildTimeAssetPath: Assets/Sprites/roundedEdgeCapsule.png
+  - fileID: 22
+    classID: 213
+    packedSize: 10508
+    sourceAssetGUID: 90863eee59fa5814a800075e5536801e
+    buildTimeAssetPath: Assets/Sprites/commandBG.png
+  - fileID: 23
+    classID: 213
+    packedSize: 4220
+    sourceAssetGUID: 98523c04a487e294d84a1111431fbe44
+    buildTimeAssetPath: Assets/Sprites/Delete.png
+  - fileID: 24
+    classID: 213
+    packedSize: 1932
+    sourceAssetGUID: d825146a3ce56664788901bafadb9499
+    buildTimeAssetPath: Assets/Sprites/fill_area.png
+  - fileID: 25
+    classID: 1
+    packedSize: 51
+    sourceAssetGUID: 5755c4faf485e8f4899a0b234b655ab2
+    buildTimeAssetPath: Assets/Sprites/GameManager.prefab
+  - fileID: 26
+    classID: 1
+    packedSize: 71
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 27
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 28
+    classID: 1
+    packedSize: 63
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 29
+    classID: 1
+    packedSize: 63
+    sourceAssetGUID: 222b6bd02581d744e8c3d0b275b64bee
+    buildTimeAssetPath: Assets/Sprites/transparent.prefab
+  - fileID: 30
+    classID: 1
+    packedSize: 63
+    sourceAssetGUID: 3f777c829ff563b48b844237684dc835
+    buildTimeAssetPath: Assets/Sprites/Lock Sign.prefab
+  - fileID: 31
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 32
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 5755c4faf485e8f4899a0b234b655ab2
+    buildTimeAssetPath: Assets/Sprites/GameManager.prefab
+  - fileID: 33
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 34
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 35
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 36
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 37
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 3f777c829ff563b48b844237684dc835
+    buildTimeAssetPath: Assets/Sprites/Lock Sign.prefab
+  - fileID: 38
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 222b6bd02581d744e8c3d0b275b64bee
+    buildTimeAssetPath: Assets/Sprites/transparent.prefab
+  - fileID: 39
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 40
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: 222b6bd02581d744e8c3d0b275b64bee
+    buildTimeAssetPath: Assets/Sprites/transparent.prefab
+  - fileID: 41
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 42
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: 3f777c829ff563b48b844237684dc835
+    buildTimeAssetPath: Assets/Sprites/Lock Sign.prefab
+  - fileID: 43
+    classID: 224
+    packedSize: 120
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 44
+    classID: 224
+    packedSize: 120
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 45
+    classID: 114
+    packedSize: 256
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 46
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 47
+    classID: 114
+    packedSize: 44
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 48
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: 3f777c829ff563b48b844237684dc835
+    buildTimeAssetPath: Assets/Sprites/Lock Sign.prefab
+  - fileID: 49
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 50
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: 5fbb061f766c25140ac17923836fe8a2
+    buildTimeAssetPath: Assets/Sprites/Stars.prefab
+  - fileID: 51
+    classID: 114
+    packedSize: 384
+    sourceAssetGUID: e12ba045c24cff043b6c5753058a48d2
+    buildTimeAssetPath: Assets/Sprites/Level.prefab
+  - fileID: 52
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: 222b6bd02581d744e8c3d0b275b64bee
+    buildTimeAssetPath: Assets/Sprites/transparent.prefab
+  - fileID: 53
+    classID: 114
+    packedSize: 164
+    sourceAssetGUID: 5755c4faf485e8f4899a0b234b655ab2
+    buildTimeAssetPath: Assets/Sprites/GameManager.prefab
+--- !u!1126 &1126797148824190656
+PackedAssets:
+  m_File: 12
+  m_ShortPath: 0a38c9dfe5090504aaf406ed6d56b511
+  m_Overhead: 4120
+  m_Contents:
+  - fileID: 1
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 2
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 3
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 4
+    classID: 222
+    packedSize: 13
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 5
+    classID: 224
+    packedSize: 108
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 6
+    classID: 224
+    packedSize: 120
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 7
+    classID: 114
+    packedSize: 260
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 8
+    classID: 114
+    packedSize: 236
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+  - fileID: 9
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 0a38c9dfe5090504aaf406ed6d56b511
+    buildTimeAssetPath: Assets/Resources/TextHolder.prefab
+--- !u!1126 &1126844046243062382
+PackedAssets:
+  m_File: 13
+  m_ShortPath: 135ed114fc8081d4ab62c4860e203b61
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 15380
+    sourceAssetGUID: 135ed114fc8081d4ab62c4860e203b61
+    buildTimeAssetPath: Assets/Resources/LongWords.txt
