@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class CreatingTheWordOnRunTime : MonoBehaviour {
+
 	//holder gameobject
 	private  GameObject holder = null;
 	//text holder gameobject

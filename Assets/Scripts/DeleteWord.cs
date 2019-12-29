@@ -35,14 +35,4 @@ public class DeleteWord : MonoBehaviour ,IPointerEnterHandler,IDropHandler,IPoin
 		c.a = 0f;
 		GetComponent<Image>().color = c;
 	}
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

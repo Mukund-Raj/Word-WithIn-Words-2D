@@ -26,7 +26,9 @@ public class ElementBeingDropped : MonoBehaviour ,IDropHandler{
 		else if (eventData.pointerDrag.tag == "Word")
 		{
 			DragToPanelInsideElement(eventData);
-		}
+            Debug.Log("drop word inside the word panel");
+        }
+        
 		GetComponent<SearchingTheWord>().ChangeTheString();	
 	}
 
@@ -44,6 +46,7 @@ public class ElementBeingDropped : MonoBehaviour ,IDropHandler{
 		Destroy(element.GetComponent<DragThroughInterface>());
 		element.AddComponent<DraggingOnWord>();
 		element.AddComponent<DragToPanelDragging>();
+        element.AddComponent<DetectingRightClickOnWord>();
 		
 	}
 	void DragToPanelInsideElement(PointerEventData eventData)

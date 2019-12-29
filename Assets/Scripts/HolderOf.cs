@@ -5,10 +5,8 @@ using UnityEngine;
 public class HolderOf : MonoBehaviour {
 	private int count = 0;
 	public GameObject child;
-	// Use this for initialization
-	void Awake () {
-	}
 	
+
 	// Update is called once per frame
 	void LateUpdate () {
 		int childnow = transform.childCount;

@@ -155,7 +155,7 @@ public class SearchingTheWord : MonoBehaviour
 		Color c1, c2;
 		float dec = 0.1f;
 
-		for (float j = 1f; j > -0.2f; j = j - dec)
+		for (float j = 1f; j > -0.2f; j -= dec)
 		{
 			c1 = WordImage.color;
 			c2 = WordText.color;
@@ -174,7 +174,7 @@ public class SearchingTheWord : MonoBehaviour
 	public IEnumerator Wait(GameObject ObjectToWait)
 	{
 		Debug.Log("working");
-		yield return new WaitForSeconds(2f);
+		yield return new WaitForSeconds(1f);
 		ObjectToWait.SetActive(false);
 	}
 	void DestroyingTheWord(Image WordImage)
